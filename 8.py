@@ -1,6 +1,5 @@
 # 8
 
 x = int(input("Введите число :"))
-y = (input("Введите строку :"))
-c = int (y)
-print (x+c)
+y = int(input("Введите строку :"))
+print (x+y)
