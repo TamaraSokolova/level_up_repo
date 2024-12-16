@@ -1,5 +1,5 @@
 # 5
 
-x = int (input("Введите строку :"))
-
-#print (x, type (x))
+x = (input("Введите строку :"))
+y = str (x)
+print (x, type (x))
